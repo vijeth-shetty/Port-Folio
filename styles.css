@@ -502,3 +502,13 @@ span {
 .contact-form button:hover {
     transform: scale(1.05);
 }
+
+
+/* Footer  */
+
+footer {
+    text-align: center;
+    padding: 50px 0;
+    background: var(--card-bg);
+    margin-top: 50px;
+}
